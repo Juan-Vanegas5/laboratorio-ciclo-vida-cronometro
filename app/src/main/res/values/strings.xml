@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+
+    <string name="start">Iniciar</string>
+    <string name="stop">Detener</string>
+    <string name="lap">Vuelta</string>
+    <string name="reset">Reiniciar</string>
+
+    <string name="lap_status">Vuelta %1$d de %2$d</string>
+    <string name="lap_finished">Las %1$d vueltas fueron completadas</string>
+    <string name="lap_row">Vuelta %1$d: %2$s (acumulado %3$s)</string>
+    <string name="report_title">Tiempos parciales por vuelta</string>
+    <string name="report_total">Tiempo total: %1$s</string>
+    <string name="no_laps">Aun no se ha registrado ninguna vuelta</string>
+</resources>
